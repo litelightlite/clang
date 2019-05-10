@@ -1,7 +1,7 @@
 "新・明快C言語で学ぶアルゴリズムとデータ構造"
 ====
 
-Overview
+Overview  
 -This repository is a my study record with textbook in the title.  
 -This textbook is one of the most popular textbooks among Japanese engineers to study Alrgorithm and Data Structures in C language.  
 -This textbook was written by BohYoh Shibata, who is an associated professor at Fukuoka Institute of technology.  
